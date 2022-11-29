@@ -1,0 +1,15 @@
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\bin\Debug\net6.0\HelloConcole lection 1.exe
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\bin\Debug\net6.0\HelloConcole lection 1.deps.json
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\bin\Debug\net6.0\HelloConcole lection 1.runtimeconfig.json
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\bin\Debug\net6.0\HelloConcole lection 1.dll
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\bin\Debug\net6.0\HelloConcole lection 1.pdb
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.csproj.AssemblyReference.cache
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.AssemblyInfoInputs.cache
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.AssemblyInfo.cs
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.csproj.CoreCompileInputs.cache
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.dll
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\refint\HelloConcole lection 1.dll
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.pdb
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\HelloConcole lection 1.genruntimeconfig.cache
+C:\Users\leshk\OneDrive\Рабочий стол\C# lection\HelloConcole lection 1\obj\Debug\net6.0\ref\HelloConcole lection 1.dll
